@@ -104,6 +104,4 @@ Sharing:
 
 ---
 
-## ⭐
-
-If you like my work, feel free to explore my repositories and follow my journey!
+⭐ If you like my work, feel free to explore my repositories and follow my journey!
