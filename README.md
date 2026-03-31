@@ -28,7 +28,7 @@ I enjoy transforming data into actionable insights and building systems that sup
 - Git & GitHub  
 - MySQL  
 - Streamlit
-- 
+  
 **Currently learning:**  
 - AWS (Cloud)  
 - Machine Learning (Scikit-learn)  
