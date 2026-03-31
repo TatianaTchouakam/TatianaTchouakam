@@ -6,7 +6,6 @@ data-driven and scalable applications.
 🎓 Background: Engineering
 📍 Based in Germany
 🎯 Interested in Data, Cloud & AI roles
-
 ---
 
 ## 🚀 About Me
@@ -19,57 +18,28 @@ I am transitioning into the data field with a strong focus on:
 * Applied Machine Learning
 
 I enjoy transforming data into actionable insights and building systems that support **real business decisions**.
-
 ---
 
 ## 🛠 Tech Stack
 
-### 🔹 Data & Analysis
-
-* Python (Pandas, NumPy)
-* SQL (joins, aggregations, data modeling)
-* Data Cleaning & Transformation
-* Exploratory Data Analysis (EDA)
-
-### 🔹 Visualization & BI
-
-* Matplotlib
-* Seaborn
-* Dashboarding concepts
-
-### 🔹 Data Engineering
-
-* Data pipelines (basic ETL concepts)
-* Structured data workflows
-* Database design (MySQL)
-
-### 🔹 Tools
-
-* Git & GitHub
-* Jupyter Notebook / Google Colab
-
-### 🔹 Cloud (Learning)
-
-* AWS (S3, cloud fundamentals)
-* Scalable data systems (in progress)
-
-### 🔹 Machine Learning (Learning & Applied)
-
-* Scikit-learn
-* Model evaluation basics
-* A/B Testing & experimentation
-
+- Python (Pandas, NumPy)  
+- SQL  
+- Data Visualization (Matplotlib, Seaborn)  
+- Git & GitHub  
+- MySQL  
+- Streamlit
+- 
+**Currently learning:**  
+- AWS (Cloud)  
+- Machine Learning (Scikit-learn)  
 ---
 
 ## 📂 Featured Projects
-
-### 📊 ENIAC – A/B Testing Analysis
 
 * ENIAC – A/B Testing Analysis
 * ENIAC – Discount Strategy Analysis
 * ENIAC – Magist Partnership Analysis
 * Liane's Library (Coming Soon)
-
 ---
 
 ## 🎥 Content & Learning Journey
@@ -83,7 +53,6 @@ Sharing:
 * Data projects
 * Learning process
 * Step-by-step growth
-
 ---
 
 ## 📫 Let's Connect
@@ -91,7 +60,6 @@ Sharing:
 * LinkedIn: https://www.linkedin.com/in/tatiana-tchouakam-chouacheu
 * Email: [tatianatchouakam@gmail.com](mailto:tatianatchouakam@gmail.com)
 * YouTube: https://www.youtube.com/@TatianaBuildsData 🚀
-
 ---
 
 ## 🎯 Current Focus
@@ -101,7 +69,6 @@ Sharing:
 * Learning Data Engineering concepts
 * Developing Machine Learning skills
 * Expanding into Cloud (AWS)
-
 ---
 
 ⭐ If you like my work, feel free to explore my repositories and follow my journey!
