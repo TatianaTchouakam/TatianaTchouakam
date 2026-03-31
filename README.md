@@ -65,35 +65,10 @@ I enjoy transforming data into actionable insights and building systems that sup
 
 ### 📊 ENIAC – A/B Testing Analysis
 
-* Compared two product versions (A vs B)
-* Calculated conversion rate & performance lift
-* Generated business insights
-
----
-
-### 📉 ENIAC – Discount Strategy Analysis
-
-* Analyzed pricing and discount impact
-* Identified patterns affecting performance
-* Delivered data-driven recommendations
-
----
-
-### 📊 ENIAC – Magist Partnership Analysis
-
-* Evaluated feasibility of business expansion
-* Used data to support strategic decisions
-
----
-
-### 📚 Liane's Library (Coming Soon 🚀)
-
-A full data application using **SQL + Python + Streamlit**
-
-* Book & loan management system
-* Interactive dashboard with KPIs
-* Search system across data
-* Real-time updates
+* ENIAC – A/B Testing Analysis
+* ENIAC – Discount Strategy Analysis
+* ENIAC – Magist Partnership Analysis
+* Liane's Library (Coming Soon)
 
 ---
 
