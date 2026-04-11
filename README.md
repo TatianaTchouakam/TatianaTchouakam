@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tatiana
 
-I'm a **Data & Cloud Engineer in training**, building real-world,
+I'm a **Data Science & AI Engineer in training**, building real-world,
 data-driven and scalable applications.
 
 🎓 Background: Engineering
