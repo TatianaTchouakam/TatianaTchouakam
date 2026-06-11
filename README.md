@@ -1,74 +1,131 @@
-# 👋 Hi, I'm Tatiana
+# 👋 Hi, I'm Tatiana Tchouakam Chouacheu
 
-I'm a **Data Science & AI Engineer in training**, building real-world,
-data-driven and scalable applications.
+## **Data Scientist & AI Engineer | Building intelligent, data-driven solutions with Python, Machine Learning & AI**
 
-🎓 Background: Engineering
-📍 Based in Germany
-🎯 Interested in Data, Cloud & AI roles
+🎓 Engineering Background | 📍 Based in Germany 🇩🇪 | 🚀 Open to Data Science, AI, Data Analytics & Business Intelligence opportunities
+
 ---
 
 ## 🚀 About Me
 
-I am transitioning into the data field with a strong focus on:
+I am a **Data Scientist & AI Engineer** with an engineering background and a passion for transforming complex data into practical, high-impact solutions.
 
-* Data Analytics
-* Data Engineering
-* Cloud-based systems
-* Applied Machine Learning
+My work combines **Data Analytics, Machine Learning, Data Engineering, and Generative AI** to solve real-world business and social-impact challenges. I enjoy building end-to-end projects—from collecting and preparing data to developing predictive models, interactive dashboards, and AI-powered applications that support better decision-making.
 
-I enjoy transforming data into actionable insights and building systems that support **real business decisions**.
+I am particularly interested in designing **intelligent systems that are practical, scalable, and privacy-conscious**, bridging the gap between technology, business needs, and human impact.
+
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-- Python (Pandas, NumPy)  
-- SQL  
-- Data Visualization (Matplotlib, Seaborn)  
-- Git & GitHub  
-- MySQL  
-- Streamlit
-  
-**Currently learning:**  
-- AWS (Cloud)  
-- Machine Learning (Scikit-learn)  
+### 💻 Programming & Data
+
+* Python (Pandas, NumPy)
+* SQL (MySQL)
+* Git & GitHub
+* Jupyter Notebook
+
+### 📊 Data Analytics & Visualisation
+
+* Power BI
+* Matplotlib
+* Seaborn
+* Streamlit
+
+### 🤖 Machine Learning & AI
+
+* Scikit-learn
+* Supervised & Unsupervised Learning
+* Feature Engineering
+* Model Evaluation
+* K-Means, DBSCAN & Agglomerative Clustering
+* PCA & t-SNE
+* Generative AI Fundamentals
+
+### ☁️ Cloud & Data Engineering
+
+* AWS Cloud Fundamentals
+* ETL & Data Pipelines
+* Data Modelling
+* Relational Databases
+
 ---
 
 ## 📂 Featured Projects
 
-* ENIAC – A/B Testing Analysis
-* ENIAC – Discount Strategy Analysis
-* ENIAC – Magist Partnership Analysis
-* Liane's Library (Coming Soon)
+### 🎵 MOOSIC – Automated Playlist Creation with Unsupervised Machine Learning
+
+Built an end-to-end Machine Learning pipeline using Spotify audio features to automatically generate intelligent playlists. Applied K-Means, PCA, t-SNE, and clustering evaluation techniques to discover hidden musical patterns.
+
+### 📚 Liane's Library
+
+Designed and developed a data-driven library management and analytics application using Python, SQL, and Streamlit, transforming static records into actionable insights.
+
+### 📊 ENIAC Data Analytics Projects
+
+Delivered business-oriented analyses to support strategic decision-making:
+
+* A/B Testing Analysis
+* Discount Strategy Analysis
+* Magist Partnership Analysis
+
+### 🐝 BeeHaven Analytics Dashboard
+
+Developed an end-to-end analytics solution combining ETL processes, SQL, Python, and Power BI to monitor operational KPIs and transform raw data into interactive business dashboards.
+
+### 🌍 CorrelAid e.V. – Data4Good
+
+Contributing as a **Business Analyst Volunteer** within an international team, analysing data, defining KPIs, and generating actionable insights for non-profit organisations.
+
+### 🤝 Youth For Understanding (YFU)
+
+Supporting a Data4Good initiative by developing stakeholder-oriented reporting and data-driven decision support for an international youth exchange organisation.
+
+### 🚧 Current Capstone Project
+
+#### 💰 MoneyPeace AI – Financial Decision Intelligence
+
+Currently developing a privacy-first AI assistant that combines data analytics and artificial intelligence to support smarter financial decisions. The project explores the intersection of AI, behavioural insights, and responsible data use.
+
 ---
 
-## 🎥 Content & Learning Journey
+## 🌱 What I'm Currently Learning
 
-I document my journey and projects on YouTube:
+* Advanced Machine Learning & Model Selection
+* Generative AI & LLM Applications
+* MLOps & Production-ready AI Workflows
+* Building Scalable AI-Powered Applications
 
-👉 https://www.youtube.com/@TatianaBuildsData
-
-Sharing:
-
-* Data projects
-* Learning process
-* Step-by-step growth
----
-
-## 📫 Let's Connect
-
-* LinkedIn: https://www.linkedin.com/in/tatiana-tchouakam-chouacheu
-* Email: [tatianatchouakam@gmail.com](mailto:tatianatchouakam@gmail.com)
-* YouTube: https://www.youtube.com/@TatianaBuildsData 🚀
 ---
 
 ## 🎯 Current Focus
 
-* Building real-world data applications
-* Strengthening SQL & Python
-* Learning Data Engineering concepts
-* Developing Machine Learning skills
-* Expanding into Cloud (AWS)
+✔️ Building real-world Data Science & AI portfolio projects
+✔️ Strengthening Python, SQL, and Machine Learning expertise
+✔️ Designing end-to-end data pipelines and analytics solutions
+✔️ Applying AI to solve practical business and social-impact challenges
+✔️ Preparing for internship and graduate roles in Data Science & AI
+
 ---
 
-⭐ If you like my work, feel free to explore my repositories and follow my journey!
+## 📫 Let's Connect
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/tatiana-tchouakam-chouacheu-91152935b/
+
+🌐 **Portfolio**
+https://talent-pool.wbscodingschool.com/en/portfolio
+
+📧 **Email**
+[tatianatchouakam@gmail.com](mailto:tatianatchouakam@gmail.com)
+
+🎥 **YouTube**
+https://www.youtube.com/@TatianaBuildsData
+
+---
+
+## ⭐ My Mission
+
+I believe that the most impactful AI solutions are those that transform data into practical value. My mission is to build intelligent systems that empower people and organisations to make better decisions through data, machine learning, and responsible artificial intelligence.
+
+**Feel free to explore my repositories and follow my journey into Data Science & AI! 🚀**
