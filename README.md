@@ -1,131 +1,80 @@
-# 👋 Hi, I'm Tatiana Tchouakam Chouacheu
+# Hi, I'm Tatiana Tchouakam Chouacheu
 
-## **Data Scientist & AI Engineer | Building intelligent, data-driven solutions with Python, Machine Learning & AI**
+## Data Scientist & AI Engineer | Business Analyst
 
-🎓 Engineering Background | 📍 Based in Germany 🇩🇪 | 🚀 Open to Data Science, AI, Data Analytics & Business Intelligence opportunities
+I turn complex data into trustworthy analytics, predictive models and AI-powered solutions that support better business decisions.
+
+📍 Bielefeld, Germany 🇩🇪 · 🌍 French | English | German (B1)  
+---
+
+## About Me
+
+I combine an engineering background, professional data experience and business understanding to deliver practical, trustworthy and decision-oriented solutions.
+
+My expertise spans the complete data lifecycle:
+
+- translating business needs into analytical requirements;
+- preparing, validating and modelling complex datasets;
+- developing machine-learning and forecasting solutions;
+- designing KPI frameworks and interactive dashboards;
+- building data pipelines and Generative AI applications;
+- communicating technical findings to business stakeholders.
+
+Alongside my technical work, I serve as a **Business Analyst & Team Coordinator at CorrelAid e.V.**, supporting an international Data4Good initiative for Youth For Understanding Germany. I coordinate stakeholders, structure reporting requirements and help translate organisational objectives into measurable KPIs and data-driven decision processes.
+
+My approach is grounded in three principles:
+
+**Technical reliability · Business relevance · Responsible AI**
 
 ---
 
-## 🚀 About Me
+## Areas of Expertise
 
-I am a **Data Scientist & AI Engineer** with an engineering background and a passion for transforming complex data into practical, high-impact solutions.
+### AI Engineering & Generative AI
 
-My work combines **Data Analytics, Machine Learning, Data Engineering, and Generative AI** to solve real-world business and social-impact challenges. I enjoy building end-to-end projects—from collecting and preparing data to developing predictive models, interactive dashboards, and AI-powered applications that support better decision-making.
+`Large Language Models` · `LangChain` · `RAG` · `Embeddings` · `Indexing Pipelines` · `Prompt Engineering` · `AI Agents` · `AI Chatbots` · `RAG Evaluation`
 
-I am particularly interested in designing **intelligent systems that are practical, scalable, and privacy-conscious**, bridging the gap between technology, business needs, and human impact.
+### Data Science & Machine Learning
 
----
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `Keras` · `Regression` · `Classification` · `Clustering` · `Feature Engineering` · `Time-Series Forecasting` · `Model Evaluation`
 
-## 🛠️ Tech Stack
+### Data Analytics & Business Intelligence
 
-### 💻 Programming & Data
+`SQL` · `Power BI` · `Tableau` · `Exploratory Data Analysis` · `Statistical Analysis` · `Data Visualisation` · `Dashboard Development` · `KPI Reporting`
 
-* Python (Pandas, NumPy)
-* SQL (MySQL)
-* Git & GitHub
-* Jupyter Notebook
+### Data Engineering, Cloud & MLOps
 
-### 📊 Data Analytics & Visualisation
+`ETL Pipelines` · `Data Transformation` · `Apache Parquet` · `Microsoft Azure` · `Microsoft Fabric` · `Databricks` · `Docker` · `GitHub Actions` · `CI/CD` · `Automated Testing`
 
-* Power BI
-* Matplotlib
-* Seaborn
-* Streamlit
+### Business Analysis & Leadership
 
-### 🤖 Machine Learning & AI
-
-* Scikit-learn
-* Supervised & Unsupervised Learning
-* Feature Engineering
-* Model Evaluation
-* K-Means, DBSCAN & Agglomerative Clustering
-* PCA & t-SNE
-* Generative AI Fundamentals
-
-### ☁️ Cloud & Data Engineering
-
-* AWS Cloud Fundamentals
-* ETL & Data Pipelines
-* Data Modelling
-* Relational Databases
+`Requirements Analysis` · `Stakeholder Management` · `KPI Framework Design` · `Business Process Analysis` · `Project Coordination` · `Technical Documentation`
 
 ---
 
-## 📂 Featured Projects
+## Professional Value
 
-### 🎵 MOOSIC – Automated Playlist Creation with Unsupervised Machine Learning
+I bring together perspectives that are often separated:
 
-Built an end-to-end Machine Learning pipeline using Spotify audio features to automatically generate intelligent playlists. Applied K-Means, PCA, t-SNE, and clustering evaluation techniques to discover hidden musical patterns.
+- **Engineering discipline** to approach complex problems methodically;
+- **Data expertise** to build evidence-based solutions;
+- **Business analysis** to ensure that technical work answers real needs;
+- **Stakeholder leadership** to align people, priorities and outcomes;
+- **Responsible AI thinking** to create solutions that remain transparent and trustworthy.
 
-### 📚 Liane's Library
-
-Designed and developed a data-driven library management and analytics application using Python, SQL, and Streamlit, transforming static records into actionable insights.
-
-### 📊 ENIAC Data Analytics Projects
-
-Delivered business-oriented analyses to support strategic decision-making:
-
-* A/B Testing Analysis
-* Discount Strategy Analysis
-* Magist Partnership Analysis
-
-### 🐝 BeeHaven Analytics Dashboard
-
-Developed an end-to-end analytics solution combining ETL processes, SQL, Python, and Power BI to monitor operational KPIs and transform raw data into interactive business dashboards.
-
-### 🌍 CorrelAid e.V. – Data4Good
-
-Contributing as a **Business Analyst Volunteer** within an international team, analysing data, defining KPIs, and generating actionable insights for non-profit organisations.
-
-### 🤝 Youth For Understanding (YFU)
-
-Supporting a Data4Good initiative by developing stakeholder-oriented reporting and data-driven decision support for an international youth exchange organisation.
-
-### 🚧 Current Capstone Project
-
-#### 💰 MoneyPeace AI – Financial Decision Intelligence
-
-Currently developing a privacy-first AI assistant that combines data analytics and artificial intelligence to support smarter financial decisions. The project explores the intersection of AI, behavioural insights, and responsible data use.
 
 ---
 
-## 🌱 What I'm Currently Learning
+## Let's Connect
 
-* Advanced Machine Learning & Model Selection
-* Generative AI & LLM Applications
-* MLOps & Production-ready AI Workflows
-* Building Scalable AI-Powered Applications
-
----
-
-## 🎯 Current Focus
-
-✔️ Building real-world Data Science & AI portfolio projects
-✔️ Strengthening Python, SQL, and Machine Learning expertise
-✔️ Designing end-to-end data pipelines and analytics solutions
-✔️ Applying AI to solve practical business and social-impact challenges
-✔️ Preparing for internship and graduate roles in Data Science & AI
+[LinkedIn](https://www.linkedin.com/in/tatiana-tchouakam-chouacheu-91152935b/) ·
+[Medium](https://medium.com/@tatianatchouakam) ·
+[YouTube](https://www.youtube.com/@TatianaBuildsData) ·
+[Portfolio](https://talent-pool.wbscodingschool.com/en/portfolio) ·
+[Email](mailto:tatianatchouakam@gmail.com)
 
 ---
 
-## 📫 Let's Connect
+### Turning complex data into trustworthy solutions with measurable impact.
 
-💼 **LinkedIn**
-https://www.linkedin.com/in/tatiana-tchouakam-chouacheu-91152935b/
-
-🌐 **Portfolio**
-https://talent-pool.wbscodingschool.com/en/portfolio
-
-📧 **Email**
-[tatianatchouakam@gmail.com](mailto:tatianatchouakam@gmail.com)
-
-🎥 **YouTube**
-https://www.youtube.com/@TatianaBuildsData
-
----
-
-## ⭐ My Mission
-
-I believe that the most impactful AI solutions are those that transform data into practical value. My mission is to build intelligent systems that empower people and organisations to make better decisions through data, machine learning, and responsible artificial intelligence.
-
-**Feel free to explore my repositories and follow my journey into Data Science & AI! 🚀**
+Explore my repositories for the methodologies, technical decisions and results behind my work.
