@@ -1,10 +1,11 @@
-# Hi, I'm Tatiana Tchouakam Chouacheu
+# Hi, I'm Tatiana Tchouakam Chouacheu 👋
 
-## Data Scientist & AI Engineer | Business Analyst
+## Cloud Data Engineer | Data Scientist & AI Engineer
 
 I turn complex data into trustworthy analytics, predictive models and AI-powered solutions that support better business decisions.
 
-📍 Bielefeld, Germany 🇩🇪 · 🌍 French | English | German (B1)  
+📍 Bielefeld, Germany 🇩🇪 · 🌍 French | English | German (B1)
+
 ---
 
 ## About Me
@@ -25,6 +26,15 @@ Alongside my technical work, I serve as a **Business Analyst & Team Coordinator 
 My approach is grounded in three principles:
 
 **Technical reliability · Business relevance · Responsible AI**
+
+---
+
+## 🔭 Currently
+
+- Starting a 2-month **Cloud Data Engineering internship** on October 1, 2026
+- Wrapping up a Data Science & AI training at WBS Coding School (September 2026)
+- Volunteering as Business Analyst at **CorrelAid**, building KPI frameworks and Power BI dashboards for **YFU Germany**
+- Open to connecting on future Data Engineering / Cloud / AI opportunities
 
 ---
 
@@ -52,24 +62,23 @@ My approach is grounded in three principles:
 
 ---
 
-## Professional Value
+## Why Work With Me
 
-I bring together perspectives that are often separated:
+I bring together perspectives that are often kept separate:
 
 - **Engineering discipline** to approach complex problems methodically;
 - **Data expertise** to build evidence-based solutions;
-- **Business analysis** to ensure that technical work answers real needs;
+- **Business analysis** to ensure technical work answers real needs;
 - **Stakeholder leadership** to align people, priorities and outcomes;
 - **Responsible AI thinking** to create solutions that remain transparent and trustworthy.
-
 
 ---
 
 ## Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/tatiana-tchouakam-chouacheu-91152935b/) ·
-[Medium](https://medium.com/@tatianatchouakam) ·
 [YouTube](https://www.youtube.com/@TatianaBuildsData) ·
+[Medium](https://medium.com/@tatianatchouakam) ·
 [Portfolio](https://talent-pool.wbscodingschool.com/en/portfolio) ·
 [Email](mailto:tatianatchouakam@gmail.com)
 
