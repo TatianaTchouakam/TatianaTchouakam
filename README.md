@@ -44,21 +44,25 @@ My approach is grounded in three principles:
 
 `Large Language Models` · `LangChain` · `RAG` · `Embeddings` · `Indexing Pipelines` · `Prompt Engineering` · `AI Agents` · `AI Chatbots` · `RAG Evaluation`
 
+### Data Engineering, Cloud & MLOps
+
+`Google Cloud Platform (GCP)` · `BigQuery` · `Cloud Storage` · `Terraform` · `Infrastructure as Code` · `gcloud & bq CLI` · `ETL Pipelines` · `REST API Ingestion` · `Idempotent Data Loading` · `Data Quality Checks` · `Data Transformation` · `Apache Parquet` · `Microsoft Azure` · `Microsoft Fabric` · `Databricks` · `Docker` · `Git & GitHub` · `GitHub Actions` · `CI/CD` · `Automated Testing`
+
 ### Data Science & Machine Learning
 
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `Keras` · `Regression` · `Classification` · `Clustering` · `Feature Engineering` · `Time-Series Forecasting` · `Model Evaluation`
 
 ### Data Analytics & Business Intelligence
 
-`SQL` · `Power BI` · `Tableau` · `Exploratory Data Analysis` · `Statistical Analysis` · `Data Visualisation` · `Dashboard Development` · `KPI Reporting`
+`SQL` · `BigQuery SQL` · `Power BI` · `Tableau` · `Matplotlib` · `Exploratory Data Analysis` · `Statistical Analysis` · `Data Visualisation` · `Dashboard Development` · `KPI Reporting`
 
-### Data Engineering, Cloud & MLOps
+### Energy Domain
 
-`ETL Pipelines` · `Data Transformation` · `Apache Parquet` · `Microsoft Azure` · `Microsoft Fabric` · `Databricks` · `Docker` · `GitHub Actions` · `CI/CD` · `Automated Testing`
+`Electricity Market Data` · `Day-Ahead Prices` · `Wind & Solar Generation` · `Merit Order Effect` · `Energy-Charts API (Fraunhofer ISE)` · `Petroleum & Geosciences Engineering Background`
 
 ### Business Analysis & Leadership
 
-`Requirements Analysis` · `Stakeholder Management` · `KPI Framework Design` · `Business Process Analysis` · `Project Coordination` · `Technical Documentation`
+`Requirements Analysis` · `Stakeholder Management` · `KPI Framework Design` · `Business Process Analysis` · `Project Coordination` · `Technical Documentation` · `MS Office (Word, Excel, PowerPoint)`
 
 ---
 
