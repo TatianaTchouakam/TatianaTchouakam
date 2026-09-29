@@ -1,20 +1,18 @@
-# Hi, I'm Tatiana Tchouakam Chouacheu
+# Hi, I'm Tatiana Tchouakam Chouacheu 👋
 
 ## Cloud Data Engineer | AI Engineer
 
-I build automated, trustworthy data pipelines and AI-powered solutions that turn complex data into better business decisions, with a special interest in the energy transition.
+I build automated, trustworthy data pipelines and AI-powered solutions that turn complex data into better business decisions.
 
 📍 Bielefeld, Germany 🇩🇪 · 🌍 French | English | German (B1)
 
 ---
 
-## ⭐ Featured Project: German Energy Data Pipeline
+## ⭐ Featured Project: Automated Cloud Data Pipeline on Google Cloud
 
-An automated data pipeline for the German electricity market, running on Google Cloud.
+An end-to-end data pipeline that runs every day without manual intervention, built with production practices: Infrastructure as Code, least-privilege security, idempotent loading, data quality checks and a live dashboard.
 
-Every morning at 07:00, a **Cloud Run** job fetches yesterday's day-ahead prices and wind and solar generation (15-minute resolution) from the Energy-Charts API, stores them in **Cloud Storage** and loads them into **BigQuery**. The full infrastructure (24 resources, three least-privilege service accounts) is defined with **Terraform**.
-
-**Key finding:** over one year, Germany had **609 hours at 0 €/MWh or below**, with a record low of **−499.99 €/MWh** on 1 May 2026.
+Every morning at 07:00, a **Cloud Run** job fetches the previous day's data from a public API (German electricity prices and generation, 15-minute resolution), stores it in **Cloud Storage** and loads it into **BigQuery**, where it is modelled in bronze, silver and gold layers. The full infrastructure (24 resources, three least-privilege service accounts) is defined with **Terraform**.
 
 🔗 [Code](https://github.com/TatianaTchouakam/germany-energy-data-pipeline) · 📊 [Live dashboard](https://datastudio.google.com/reporting/0a416ce2-442e-45c9-a1d5-1c43b2747553)
 
@@ -48,9 +46,9 @@ My approach is grounded in three principles:
 
 - Starting a 2-month **Cloud Data Engineering internship** on October 5, 2026
 - Completed a Data Science & AI training at WBS Coding School (September 2026)
-- Running my [German energy data pipeline](https://github.com/TatianaTchouakam/germany-energy-data-pipeline) on Google Cloud, updated automatically every day
+- Running an [automated cloud data pipeline](https://github.com/TatianaTchouakam/germany-energy-data-pipeline) on Google Cloud, updated every day
 - Volunteering as Business Analyst at **CorrelAid**, building KPI frameworks and Power BI dashboards for **YFU Germany**
-- Open to junior **Data Engineering / Cloud / AI** opportunities, especially in energy and climate tech
+- Open to junior **Data Engineering / Cloud / AI** opportunities
 
 ---
 
@@ -71,10 +69,6 @@ My approach is grounded in three principles:
 ### Data Analytics & Business Intelligence
 
 `SQL` · `BigQuery SQL` · `Window Functions & CTEs` · `Looker Studio` · `Power BI` · `Tableau` · `Matplotlib` · `Exploratory Data Analysis` · `Statistical Analysis` · `Data Visualisation` · `Dashboard Development` · `KPI Reporting`
-
-### Energy Domain
-
-`Electricity Market Data` · `Day-Ahead Prices (15-minute)` · `Negative Prices` · `Wind & Solar Generation` · `Merit Order Effect` · `Energy-Charts API (Fraunhofer ISE)` · `Petroleum & Geosciences Engineering Background`
 
 ### Business Analysis & Leadership
 
