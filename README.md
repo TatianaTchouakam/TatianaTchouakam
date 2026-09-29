@@ -1,4 +1,4 @@
-# Hi, I'm Tatiana Tchouakam Chouacheu 👋
+# Hi, I'm Tatiana Tchouakam Chouacheu 
 
 ## Cloud Data Engineer | AI Engineer
 
