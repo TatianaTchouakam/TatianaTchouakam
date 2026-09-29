@@ -4,7 +4,7 @@
 
 I build automated, trustworthy data pipelines and AI-powered solutions that turn complex data into better business decisions.
 
-📍 Bielefeld, Germany 🇩🇪 · 🌍 French | English | German (B1)
+📍 Heidelberg / Mannheim area, Germany 🇩🇪 · 🌍 English (C1) | French (native) | German (B1)
 
 ---
 
@@ -20,9 +20,19 @@ Every morning at 07:00, a **Cloud Run** job fetches the previous day's data from
 
 ---
 
+## 🚧 In Progress: Mannheim Air & Weather Data Platform
+
+A daily data platform that collects **air-quality** data (Umweltbundesamt) and **weather** data (Deutscher Wetterdienst) for Mannheim, to analyse how the weather influences air pollution in the city. Raw data lands in a Parquet data lake, is transformed with **PySpark** (bronze, silver, gold), orchestrated by **Apache Airflow** and deployed on **Kubernetes**.
+
+🔗 [Code](https://github.com/TatianaTchouakam/mannheim-air-weather-data-platform)
+
+`Python` · `Apache Airflow` · `PySpark` · `Apache Parquet` · `Kubernetes` · `Helm` · `Docker` · `Streamlit`
+
+---
+
 ## About Me
 
-I combine an engineering background, professional data experience and business understanding to deliver practical, trustworthy and decision-oriented solutions.
+I combine an engineering background, professional data experience and business understanding to deliver practical, trustworthy and decision-oriented solutions. I am officially authorized to use the professional title **"Ingenieurin"** in Germany.
 
 My expertise spans the complete data lifecycle:
 
@@ -44,11 +54,12 @@ My approach is grounded in three principles:
 
 ## 🔭 Currently
 
-- Starting a 2-month **Cloud Data Engineering internship** on October 5, 2026
-- Completed a Data Science & AI training at WBS Coding School (September 2026)
+- **Cloud Data Engineering internship** at Action4Diabetes (October – November 2026)
+- Completing a full-time **Data Science & AI** program at WBS Coding School (November 2025 – November 2026)
 - Running an [automated cloud data pipeline](https://github.com/TatianaTchouakam/germany-energy-data-pipeline) on Google Cloud, updated every day
+- Building a [Mannheim air-quality & weather data platform](https://github.com/TatianaTchouakam/mannheim-air-weather-data-platform) with Airflow, PySpark and Kubernetes
 - Volunteering as Business Analyst at **CorrelAid**, building KPI frameworks and Power BI dashboards for **YFU Germany**
-- Open to junior **Data Engineering / Cloud / AI** opportunities
+- **Available for full-time junior Data Engineering / Cloud / AI roles from 1 December 2026** – Heidelberg / Mannheim area or remote
 
 ---
 
@@ -56,23 +67,27 @@ My approach is grounded in three principles:
 
 ### Data Engineering & Cloud
 
-`Google Cloud Platform (GCP)` · `BigQuery` · `Cloud Storage` · `Cloud Run` · `Cloud Scheduler` · `Cloud Build` · `Artifact Registry` · `IAM & Service Accounts` · `Terraform` · `Infrastructure as Code` · `Docker` · `ETL Pipelines` · `REST API Ingestion` · `Idempotent Data Loading` · `Backfilling` · `Medallion Architecture` · `Data Quality Checks` · `gcloud & bq CLI` · `Apache Parquet` · `Microsoft Azure` · `Microsoft Fabric` · `Databricks` · `Git & GitHub` · `GitHub Actions` · `CI/CD` · `Automated Testing`
+`Google Cloud Platform (GCP)` · `BigQuery` · `Cloud Storage` · `Cloud Run` · `Cloud Scheduler` · `Cloud Build` · `Artifact Registry` · `IAM & Service Accounts` · `Terraform` · `Infrastructure as Code` · `Docker` · `Kubernetes (in progress)` · `Helm (in progress)` · `Apache Airflow (in progress)` · `PySpark` · `ETL Pipelines` · `REST API Ingestion` · `Idempotent Data Loading` · `Backfilling` · `Medallion Architecture` · `Data Quality Checks` · `gcloud & bq CLI` · `Apache Parquet` · `Microsoft Azure` · `Azure Synapse` · `Microsoft Fabric` · `Databricks` · `Git & GitHub` · `GitHub Actions` · `CI/CD` · `Automated Testing`
 
 ### AI Engineering & Generative AI
 
-`Large Language Models` · `LangChain` · `RAG` · `Embeddings` · `Indexing Pipelines` · `Prompt Engineering` · `AI Agents` · `AI Chatbots` · `RAG Evaluation`
+`Large Language Models` · `LangChain` · `LlamaIndex` · `RAG` · `Embeddings` · `Indexing Pipelines` · `Prompt Engineering` · `AI Agents` · `AI Chatbots` · `RAG Evaluation`
 
 ### Data Science & Machine Learning
 
-`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `Keras` · `Regression` · `Classification` · `Clustering` · `Feature Engineering` · `Time-Series Forecasting` · `Model Evaluation`
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `Keras` · `Regression` · `Classification` · `Clustering` · `Feature Engineering` · `Time-Series Forecasting` · `NLP` · `Model Evaluation`
 
 ### Data Analytics & Business Intelligence
 
-`SQL` · `BigQuery SQL` · `Window Functions & CTEs` · `Looker Studio` · `Power BI` · `Tableau` · `Matplotlib` · `Exploratory Data Analysis` · `Statistical Analysis` · `Data Visualisation` · `Dashboard Development` · `KPI Reporting`
+`SQL` · `BigQuery SQL` · `Window Functions & CTEs` · `Looker Studio` · `Power BI` · `Tableau` · `Matplotlib` · `Exploratory Data Analysis` · `Statistical Analysis` · `A/B Testing` · `Data Visualisation` · `Dashboard Development` · `KPI Reporting`
 
 ### Business Analysis & Leadership
 
 `Requirements Analysis` · `Stakeholder Management` · `KPI Framework Design` · `Business Process Analysis` · `Project Coordination` · `Technical Documentation` · `MS Office (Word, Excel, PowerPoint)`
+
+### Certifications
+
+`Microsoft Azure Data Fundamentals (DP-900)` · `PCEP – Certified Entry-Level Python Programmer` · `Scikit-learn Associate Practitioner`
 
 ---
 
