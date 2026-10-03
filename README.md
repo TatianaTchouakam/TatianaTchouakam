@@ -8,7 +8,9 @@ I build automated, trustworthy data pipelines and AI-powered solutions that turn
 
 ---
 
-## ⭐ Featured Project: Automated Cloud Data Pipeline on Google Cloud
+## ⭐ Featured Projects
+
+### ☁️ Automated Cloud Data Pipeline on Google Cloud
 
 An end-to-end data pipeline that runs every day without manual intervention, built with production practices: Infrastructure as Code, least-privilege security, idempotent loading, data quality checks and a live dashboard.
 
@@ -27,6 +29,17 @@ A daily data platform that collects **air-quality** data (Umweltbundesamt) and *
 🔗 [Code](https://github.com/TatianaTchouakam/mannheim-air-weather-data-platform)
 
 `Python` · `Apache Airflow` · `PySpark` · `Apache Parquet` · `Kubernetes` · `Helm` · `Docker` · `Streamlit`
+
+
+### ❄️ ELT Pipeline with Snowflake and dbt
+
+The same German electricity data, rebuilt on a different modern stack to compare platforms on one business problem. Raw data is loaded into **Snowflake** (stage + `COPY INTO`) and transformed with **dbt Core** into bronze, silver and gold layers, with **14 automated data tests**, generated documentation and lineage. **GitHub Actions** runs the pipeline every morning in under a minute and publishes a daily KPI summary. Security follows production practices: dedicated service user, key-pair authentication and a least-privilege role.
+
+**Key insight:** over Q1 2025, the renewable share of German generation is strongly negatively correlated with the day-ahead price (r = −0.77), consistent with the merit-order effect.
+
+🔗 [Code](https://github.com/TatianaTchouakam/energy-dbt-snowflake)
+
+`Snowflake` · `dbt Core` · `SQL` · `Python` · `GitHub Actions` · `Data Testing` · `Key-Pair Authentication`
 
 ---
 
@@ -57,6 +70,7 @@ My approach is grounded in three principles:
 - **Cloud Data Engineering internship** at Action4Diabetes (October – November 2026)
 - Completing a full-time **Data Science & AI** program at WBS Coding School (November 2025 – November 2026)
 - Running an [automated cloud data pipeline](https://github.com/TatianaTchouakam/germany-energy-data-pipeline) on Google Cloud, updated every day
+- Running an [ELT pipeline with Snowflake and dbt](https://github.com/TatianaTchouakam/energy-dbt-snowflake), automated with GitHub Actions and tested every day
 - Building a [Mannheim air-quality & weather data platform](https://github.com/TatianaTchouakam/mannheim-air-weather-data-platform) with Airflow, PySpark and Kubernetes
 - Volunteering as Business Analyst at **CorrelAid**, building KPI frameworks and Power BI dashboards for **YFU Germany**
 - **Available for full-time junior Data Engineering / Cloud / AI roles from 1 December 2026** – Heidelberg / Mannheim area or remote
@@ -67,7 +81,7 @@ My approach is grounded in three principles:
 
 ### Data Engineering & Cloud
 
-`Google Cloud Platform (GCP)` · `BigQuery` · `Cloud Storage` · `Cloud Run` · `Cloud Scheduler` · `Cloud Build` · `Artifact Registry` · `IAM & Service Accounts` · `Terraform` · `Infrastructure as Code` · `Docker` · `Kubernetes (in progress)` · `Helm (in progress)` · `Apache Airflow (in progress)` · `PySpark` · `ETL Pipelines` · `REST API Ingestion` · `Idempotent Data Loading` · `Backfilling` · `Medallion Architecture` · `Data Quality Checks` · `gcloud & bq CLI` · `Apache Parquet` · `Microsoft Azure` · `Azure Synapse` · `Microsoft Fabric` · `Databricks` · `Git & GitHub` · `GitHub Actions` · `CI/CD` · `Automated Testing`
+`Snowflake` · `dbt Core` · `Google Cloud Platform (GCP)` · `BigQuery` · `Cloud Storage` · `Cloud Run` · `Cloud Scheduler` · `Cloud Build` · `Artifact Registry` · `IAM & Service Accounts` · `Terraform` · `Infrastructure as Code` · `Docker` · `Kubernetes (in progress)` · `Helm (in progress)` · `Apache Airflow (in progress)` · `PySpark` · `ETL Pipelines` · `REST API Ingestion` · `Idempotent Data Loading` · `Backfilling` · `Medallion Architecture` · `Data Quality Checks` · `Data Testing (dbt)` · `Data Lineage & Documentation` · `RBAC & Key-Pair Authentication` · `gcloud & bq CLI` · `Apache Parquet` · `Microsoft Azure` · `Azure Synapse` · `Microsoft Fabric` · `Databricks` · `Git & GitHub` · `GitHub Actions` · `CI/CD` · `Automated Testing`
 
 ### AI Engineering & Generative AI
 
